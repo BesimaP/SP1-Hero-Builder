@@ -53,7 +53,7 @@ void main() {
     System.out.println("- " + inventory1[1]);
     System.out.println("- " + inventory1[2]);
 
-    //Character 3
+    //CHARACTER 3
     String name2 = "Fighter";
     String type2 = "Rogue";
     int level2 = 4;
